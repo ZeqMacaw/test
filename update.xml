@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<item>
+<update>
     <version>0.64.0.0</version>
-    <url>https://www.dropbox.com/s/3vhu84bdmf3yyct/Crowbar_2019-10-16_0.64.7z?dl=1</url>
+    <compressed_app>https://www.dropbox.com/s/3vhu84bdmf3yyct/Crowbar_2019-10-16_0.64.7z?dl=1</compressed_app>
     <changelog>https://github.com/ZeqMacaw/Crowbar/releases</changelog>
     <mandatory>false</mandatory>
-</item>
+</update>
